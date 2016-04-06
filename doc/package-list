@@ -1,0 +1,10 @@
+com.rnb.searsapi
+com.rnb.searsapi.base
+com.rnb.searsapi.deals.pojo.in
+com.rnb.searsapi.deals.pojo.out
+com.rnb.searsapi.impl
+com.rnb.searsapi.junit
+com.rnb.searsapi.product.pojo.in
+com.rnb.searsapi.product.pojo.out
+com.rnb.searsapi.stores.pojo.in
+com.rnb.searsapi.stores.pojo.out
